@@ -1,0 +1,1 @@
+/usr/bin/c++ -lzmq CMakeFiles/client.dir/src/client.cpp.o CMakeFiles/client.dir/src/tree.cpp.o -o client  -lzmq 
