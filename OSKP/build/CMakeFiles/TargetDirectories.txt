@@ -1,3 +1,0 @@
-/home/papik/OSKP/build/CMakeFiles/main.dir
-/home/papik/OSKP/build/CMakeFiles/edit_cache.dir
-/home/papik/OSKP/build/CMakeFiles/rebuild_cache.dir
