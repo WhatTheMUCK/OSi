@@ -1,4 +1,0 @@
-/home/papik/OSlaba6-8/build/CMakeFiles/client.dir
-/home/papik/OSlaba6-8/build/CMakeFiles/server.dir
-/home/papik/OSlaba6-8/build/CMakeFiles/edit_cache.dir
-/home/papik/OSlaba6-8/build/CMakeFiles/rebuild_cache.dir
